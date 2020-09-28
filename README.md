@@ -1,4 +1,4 @@
-# Logistic-Regression--Predictive-Modelling-
+# Logistic-Regression-Predictive-Modelling
 I sourced the dataset from the UCI Machine Learning repository, and it pertains to direct marketing campaigns of a Portuguese banking firm. The fields include some information about the clients and how the marketers have engaged and reached out to the them to sell the products
 
 The Goal of the Project:
